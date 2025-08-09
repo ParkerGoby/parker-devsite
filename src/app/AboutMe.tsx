@@ -7,10 +7,9 @@ const AboutMe: React.FC = () => {
         <h1 className="text-4xl font-bold mb-6">About Me</h1>
         <p className="text-2xl leading-relaxed">
           Hello! My name is Parker Goby, I am currently a Software Engineer II
-          at Whisker. I enjoy exercising, spending time outside, and going down
-          random rabbit holes in the internet. This site is where I post about
-          my fitness journey and goals, things I learn, and fun one offs that I
-          feel like making.
+          at Whisker. I have a ton of interests, so I decided to make a website
+          that enhances my experience with them. Feel free to click the
+          components below or the Navbar on the left to learn more!
         </p>
       </div>
     </div>
