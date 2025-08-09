@@ -1,6 +1,6 @@
 import Navbar from "./global/Navbar";
 import AboutMe from "./AboutMe";
-import HomeCard from "./HomeCard";
+import HomeCard from "./global/HomeCard";
 
 export default function Home() {
   return (
@@ -15,8 +15,8 @@ export default function Home() {
             imageSrc="/ted-bryan-yu-5mezpWin6T8-unsplash(1).jpg"
           />
           <HomeCard
-            href="/lifts"
-            title="Lifts and Nutrition"
+            href="/fitness"
+            title="Fitness"
             imageSrc="/ted-bryan-yu-5mezpWin6T8-unsplash(1).jpg"
           />
           <HomeCard
